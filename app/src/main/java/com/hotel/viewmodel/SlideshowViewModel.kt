@@ -1,4 +1,4 @@
-package com.hotel.ui.slideshow
+package com.hotel.viewmodel
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
