@@ -21,4 +21,13 @@
     <string name="menu_hotel">Hotel</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="msg_nombre_add">Nombre del Huesped</string>
+    <string name="msg_apellido_add">Apellido del Huesped</string>
+    <string name="msg_cedula_add">Cedula del Huesped</string>
+    <string name="msg_numeroHabitacion_add">Numero de Habitación del Huesped</string>
+    <string name="bt_add_hotel">Agregar Huesped</string>
+    <string name="msg_hotel_add">Agregar Huesped</string>
 </resources>
